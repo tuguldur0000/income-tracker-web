@@ -1,0 +1,232 @@
+.bagana {
+  width: 282px;
+  height: 1080px;
+  margin-left: 380px;
+  border-radius: 12px;
+  border: 1px solid #D1D5DB;
+  padding: 24px, 16px, 24px, 16px;
+  gap: 24px;
+  background-color:#F9FAFB;
+   display: flex;
+   margin-left: 500px;
+}
+.deetl{
+  width: 250px;
+  height:88px;
+  /* row-gap: 24px; */
+ 
+  margin-top: 20px;
+  display: flex;
+ margin-left: 15px;
+ flex-wrap: wrap;
+}
+.records{
+  width: 89px;
+  height: 32px;
+  font-family: sans-serif;
+  font-size: 24px;
+   margin-top: -5px;
+ margin-left: 0px;
+  }
+.Add{
+  background-color: #0166FF;
+  width: 250px;
+  height: 32px;
+  border-radius: 50px;
+  border: none;
+  color: #FFFFFF;
+  margin-top: 13px;
+  font-size:16px;
+  
+}
+.input{
+  width: 250px;
+  height: 32px;
+  background-color: #F3F4F6;
+  border: 1px solid #D1D5DB;
+  border-radius: 10px;
+  font-size:16px; 
+ margin-left:-4px ;
+ margin-top:35px;
+  color: #A3A3A3;
+   
+}
+.deetl3{
+  width: 250px;
+  height: 520px;
+  /* border: 1px solid black; */
+  margin-top: 35px;
+}
+  .ehnidiv{
+width: 250px;
+height: 32px;
+display: flex;
+justify-content:space-between;
+/* border: 1px solid black; */
+align-items: center;
+  }
+.category{
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.clear{
+font-size: 16px;
+color: #D1D5DB;
+border: none;
+background-color:#F9FAFB;
+}
+.hoyrdahidiv{
+  width: 250px;
+  height: 472px;
+  margin-top: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+ /* border: 1px solid black; */
+
+}
+.dotrohdiv{
+  width: 250px;
+  height: 38px;
+  /* justify-content: space-between; */
+  /* border: 1px solid black; */
+  display: flex;
+  align-items: center;
+  margin-left: 20px ;
+  gap: 20px;
+}
+.guravdahidiv{
+  width:245px ;
+  height: 152px;
+  
+  font-size:16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ .textinputdiv{
+  width:245px ;
+  height: 48px;
+  display: flex;
+  justify-content:space-between
+ }
+
+.textinput{
+  width:114.5px ;
+  height: 48px;
+  border-radius: 10px;
+  border: 1px solid  #D1D5DB;
+}
+ 
+.buheldel{
+    width: 894px;
+    height: 1040px;
+    margin-top: 30px;
+    margin-left: 50px;
+    gap: 24px;
+ 
+}
+.gai{
+  width: 894px;
+  height: 48px;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-between;
+}
+.lastdays{
+  width:188px ;
+  height: 32px;
+  
+  display: flex;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+justify-content:space-between;
+  /* margin-top: 25px;
+  margin-left: 20px; */
+}
+ .days{
+  display: flex;
+  align-items: center;
+ }
+.button{
+  width: 32px;
+  background-color: #E5E7EB;
+  border: none;
+  border-radius: 10px;
+}
+.newest{
+  width: 180px;
+  height: 48px;
+  /* border: 1px solid black; */
+  /* margin-top: 25px;
+  margin-left: 526px; */
+}
+.select{
+  width: 180px;
+  height:48px ;
+  border-radius: 7px;
+  border: 1px solid #D1D5DB;
+}
+.ehniidiv{
+  width:894px ;
+  height: 48px;
+ background-color: #FFFFFF;
+border-radius: 12px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+display: flex;
+align-items: center;
+gap: 700px;
+color: #94A3B8;
+border: 1px solid #E5E7EB;
+margin-top:15px ;
+}
+.checkbox{
+  width: 105px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 10px;
+  color: black;
+}
+.goldiv{
+  width: 894px;
+  height: 404px;
+  /* border: 1px solid black; */
+ margin-top: 20px;
+ border-radius: 12px;
+ font-size: 16px;
+ font-family: Arial, Helvetica, sans-serif;
+ /* display: flex; */
+ /* align-items: center; */
+}
+.Today{
+  /* border: 1px solid black; */
+  height: 16px;
+}
+.componud{
+  width: 894px;
+  height: 362px;
+  
+  /* margin-left: 20px; */
+}
+.suulindiv{
+  width: 894px;
+  height: 480px;
+  /* border: 1px solid black; */
+ margin-top: 20px;
+ border-radius: 12px;
+ font-size: 16px;
+ font-family: Arial, Helvetica, sans-serif;
+} 
+.Yesterday{
+  /* border: 1px solid black; */
+  height: 16px;
+}
+.dootlincomponud{
+  width: 894px;
+  height: 362px;
+  
+  margin-top: px;
+}
+.zamiinsada{
+  margin-left: 20px;
+}

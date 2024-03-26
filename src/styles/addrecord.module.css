@@ -1,0 +1,179 @@
+.container{
+    width: 792px;
+    height: 512px;
+    margin-top: -30px;
+    /* margin-right: 0px; */
+    margin-left: -30px;
+    border-radius: 12px;
+background-color: #FFFFFF;
+display: flex;
+flex-wrap: wrap;
+/* border: 1px solid black; */
+}
+.nemehAdd{
+    width:250px ;
+    height: 32px;
+ 
+    border-radius: 50px;
+    background-color: #0166FF;
+color:#FFFFFF;
+}
+.oorclogc{
+    background-color:#F3F4F6;
+   color: black;
+    width: 172px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 170px;
+    margin-top: -30px;
+}
+.ehnidiv{
+    width: 792px;
+    height: 68px;
+    justify-content:space-between;
+    border: 0px, 0px, 1px, 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-block-end: 1px solid #E2E8F0;
+    padding-left: 20px;
+ 
+}
+.garah{
+    width: 15.86px;
+    height: 15.86px;
+   border: none;
+    margin-left: 750px;
+    margin-top:-35px;
+    display: flex;
+    background-color:#FFFFFF;
+}
+.zuunhagas{
+    width: 395px;
+    height: 444px;
+display: flex;
+ 
+ /* justify-content: center; */
+ flex-direction: column;
+ align-items: center;
+}
+.ExIn{
+    width:348px ;
+    height: 40px;
+    background-color: #F3F4F6;
+    border-radius: 50px;
+    display: flex;
+     margin-top: 20px;
+}
+.Expense{
+    width: 172px;
+    height: 40px;
+    background-color: #0166FF;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding-top: 10px;
+}
+/* .Income{
+    width: 172px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: #F3F4F6;
+    font-size: 16px;
+} */
+.AmCaDa{
+    width:348px ;
+    height: 340px;
+    display: flex;
+ 
+    margin-top: 20px;
+  
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+.Amount{
+width:348px ;
+height: 76px;
+border: 1px solid #D1D5DB;
+border-radius: 9px;
+background-color: #F3F4F6;
+}
+.Categoryug{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.Category{
+width: 348px;
+height:48px ;
+margin-top: -10px;
+border: 1px solid #D1D5DB;
+border-radius: 9px;
+background-color: #F9FAFB;
+}
+.inputdad{
+    width:348px; ;
+    height:48px ;
+    display: flex;
+    gap: 15px;
+    margin-top: 40px;
+}
+.Dateug{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    display:flex ;
+    width: 348px;
+    height: 26px;
+    margin-top: 12px;
+    gap: 150px;
+}
+.Date{
+width: 348px;
+height: 48px;
+border: 1px solid #D1D5DB;
+border-radius: 9px;
+margin-top: -20px;
+background-color: #F9FAFB;
+}
+.Addrecord{
+width: 348px;
+height:40px ;
+margin-top: 0px;
+border: none;
+background-color: #0166FF;
+border-radius:50px;
+color: #F9FAFB;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+}
+.baruunhagas{
+    width: 395px;
+    height: 444px;
+display: flex;
+ 
+justify-content: center;
+flex-wrap: wrap;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.writehere{
+    width: 348px;
+    height: 48px;
+    border-radius: 9px;
+    background-color:#F9FAFB  ;
+    border: 1px solid #D1D5DB ;
+    margin-top: 45px;
+  margin-left: -49px;
+  
+}
+.writehere2{
+    width: 348px;
+    height: 280px;
+    border-radius: 8px;
+    background-color: #F3F4F6;
+    border: none;
+    border: 1px solid #D1D5DB;
+    margin-top: -17px;
+
+}
+ 
